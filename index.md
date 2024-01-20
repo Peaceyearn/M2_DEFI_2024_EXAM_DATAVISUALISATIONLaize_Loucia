@@ -3,6 +3,12 @@ M2 DEFI - Data Visualisation
 
 # Présentation du sujet : Contexte et problématique
 
+# Sommaire 
+1. intro choix
+2. traitement
+3. 
+
+
 
 # Jeu de données
 
@@ -20,8 +26,10 @@ Analyse
 
 ## Troisième visualisation
 Analyse
+Flourish?
 
 # Conclusion
-Conclusion générale
 
+ouverture maladie
+////
 ---
