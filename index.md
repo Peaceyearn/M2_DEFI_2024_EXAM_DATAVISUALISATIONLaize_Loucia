@@ -1,90 +1,79 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
+# Temps de parole des hommes et femmes à la radio et la télé
+![Image de média](https://img.etimg.com/thumb/width-1800,height-900,imgsize-458873,resizemode-75,msid-70322833/industry/media/entertainment/media/tv-and-radio-companies-want-broadcast-policy-to-protect-media-freedom.jpg) 
+source:image google
+# Sommaire 
+1. [Introduction](#introduction)
+2. [Choix et recueil du jeu de données](#jeuDeDonnées)
+3. [Visualisation avec Flourish](#traitement)
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Devoir de M2 DEFI - Data Visualisation | Data-Visualisation</title>
-<meta name="generator" content="Jekyll v3.9.3" />
-<meta property="og:title" content="Devoir de M2 DEFI - Data Visualisation" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://peaceyearn.github.io/DEFI_M2_EXAM_LaiLoucia_DATAVISUALISATION/" />
-<meta property="og:url" content="https://peaceyearn.github.io/DEFI_M2_EXAM_LaiLoucia_DATAVISUALISATION/" />
-<meta property="og:site_name" content="Data-Visualisation" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Devoir de M2 DEFI - Data Visualisation" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Devoir de M2 DEFI - Data Visualisation","name":"Data-Visualisation","url":"https://peaceyearn.github.io/DEFI_M2_EXAM_LaiLoucia_DATAVISUALISATION/"}</script>
-<!-- End Jekyll SEO tag -->
+## 1. Introduction <a name="Introduction"></a>
+J'ai choisi de travailler sur la différence de temps accordée aux hommes et aux femmes sur les médias notamment à la radio et à la télé.
+Pour faire une visualisation sur le thème de temps de parole des hommes et femmes dans les médias, il a fallu recueillir des open data sur différents sites. Après collecte des données, j'ai décidé de réduire et de synthétiser mes données et de ne travailler que sur la plage qui m'interesse. J'ai donc réduit les données sur une période de 5 ans à savoir entre 2015 et 2019. 
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="https://peaceyearn.github.io/DEFI_M2_EXAM_LaiLoucia_DATAVISUALISATION/assets/css/style.css?v=98f59f3b8449bce0fa2d134d3e556db65b6fab1f">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-<!-- Setup Google Analytics -->
+**Les chaînes de télé analysées sont les suivantes:**  Arte, Animaux, BFM TV, Canal+, Canal+ Sport, Chasse et pêche, Chérie 25, Comédie+, D8/C8, Euronews, Eurosport France, France 2, France 24, France 3, France 5, France O, Histoire, I-Télé/CNews, L'Equipe 21, LCI, LCP/Public Sénat, La chaîne Météo, M6, Monte Carlo TMC, NRJ 12, Paris Première, Planète+, TF1, TV Breizh, TV5 Monde, Toute l'Histoire, Téva, Voyage, W9.
+
+
+**Les chaînes de radio analysées sont les suivantes:** Chérie FM, Europe 1, France Bleu, France Culture, France Info, France Inter, France Musique, Fun Radio, Mouv’, NRJ, Nostalgie, RFM, RMC, RTL, RTL 2, Radio Classique, Radio France Internationale, Rire et Chansons, Skyrock, Sud Radio et Virgin Radio.
+
+
+Les temps de parole sont estimés en heure.
+
+## 2. Choix et recueil du jeu de données
+![Image micro](https://previews.123rf.com/images/forestrun/forestrun1902/forestrun190200024/133670236-professional-microphone-in-radio-studio.jpg)
+source:image google
+
+Les données sont recueillies en open data sur le site data.gouv
+>[Données sur temps de parole des hommes et des femmes à la radio et à la télé](https://www.data.gouv.fr/fr/datasets/temps-de-parole-des-hommes-et-des-femmes-a-la-television-et-a-la-radio/#/resources)
 
 
 
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Data-Visualisation/favicon.ico" -->
+J'ai choisi le jeu de données de temps de parole des hommes et femmes à la radio et à la télé parmi les données proposées. J'ai décidé de reduire la période à 5ans.
 
-<!-- end custom head snippets -->
+### Voici un extrait du fichier analysé:
 
-  </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
+| ANNEE | channel_name       |     male_duration  |     female_duration  |
+|-------|--------------------|--------------------|----------------------|
+| 2015  | Animaux            |     1 645 238      |        956 988       |
+| 2015  | ARTE               |     3 123 603      |     1 231 907        |
+| 2015  | BFM TV             |     3 501 573      |     1 773 802        |
+| 2015  | Canal+             |     3 339 791      |        916 718       |
+| 2015  | Canal+ Sport       |     2 761 056      |        142 649       |
+| 2016  | Animaux            |     1 634 839      |        942 338       |
+| 2016  | ARTE               |     3 164 116      |     1 246 289        |
+| 2016  | BFM TV             |     3 326 119      |     1 841 251        |
+| 2016  | Canal+             |     3 321 179      |        942 185       |
+| 2016  | Canal+ Sport       |     2 845 340      |        144 663       |
+| 2017  | Animaux            |     1 550 192      |        937 349       |
+| 2017  | ARTE               |     3 001 213      |     1 277 691        |
+| 2017  | BFM TV             |     3 299 401      |     1 860 405        |
+| 2017  | Canal+             |     3 154 239      |        890 497       |
+| 2017  | France 2           |     2 936 590      |     1 681 791        |
+| 2018  | Animaux            |     1 475 340      |     1 025 229        |
+| 2018  | ARTE               |     3 644 717      |     1 648 909        |
+| 2018  | BFM TV             |     4 051 134      |     2 378 788        |
+| 2018  | Radio Classique    |     1 594 247      |        910 651       |
+| 2018  | RFI                |     6 046 376      |     2 998 556        |
+| 2019  | Animaux            |     1 310 231      |        821 350       |
+| 2019  | ARTE               |     1 448 996      |        707 776       |
+| 2019  | BFM TV             |     1 749 685      |        910 678       |
+| 2019  | Canal+             |     1 628 037      |        478 149       |
+| 2019  | Canal+ Sport       |     2 507 609      |        135 782       |
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">Devoir de M2 DEFI - Data Visualisation</h1>
-      <h2 class="project-tagline"></h2>
-      
-        <a href="https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION" class="btn">View on GitHub</a>
-      
-      
-    </header>
+> Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
-    <main id="content" class="main-content" role="main">
-      <h1 id="devoir-de-m2-defi---data-visualisation">Devoir de M2 DEFI - Data Visualisation</h1>
-<p>M2 DEFI - Data Visualisation</p>
+## 3. Visualisation avec Flourish
 
-<h1 id="présentation-du-sujet">Présentation du sujet</h1>
-<p>Le sujet : …</p>
+Pour cette première visualisation, j'ai utilisé Flourish pour visualiser pour chaque chaîne de télé et de radio le temps de parole des hommes et des femmes. 
 
-<h1 id="jeu-de-données">Jeu de données</h1>
-<p>Les jeux de données utilisés : …</p>
+<div class="flourish-embed flourish-chart" data-src="visualisation/16342816"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-<h1 id="openrefine--wikidata">OpenRefine &amp; WikiData</h1>
-<p>Utilisation d’OpenRefine et WikiData</p>
+Avec cette visualisation, on remarque que pour toutes les chaînes, que ce soit à la télé ou à la radio, les temps de parole des femmes est inférieur à celui des hommes. 
 
-<h1 id="les-visualisations">Les Visualisations</h1>
+## 4. Visualisation avec Datawrapper
 
-<h2 id="première-visualisation">Première visualisation</h2>
-<p>Analyse</p>
+Pour cette visualisation, 
 
-<h2 id="deuxième-visualisation">Deuxième visualisation</h2>
-<p>Analyse</p>
-
-<h2 id="troisième-visualisation">Troisième visualisation</h2>
-<p>Analyse</p>
-
-<h1 id="conclusion">Conclusion</h1>
-<p>Conclusion générale</p>
-
-<hr />
-
-
-      <footer class="site-footer">
-        
-          <span class="site-footer-owner"><a href="https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION">Data-Visualisation</a> is maintained by <a href="https://github.com/Peaceyearn">Peaceyearn</a>.</span>
-        
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-  </body>
-</html>
-
+### test
+<iframe title="Temps de parole des hommes et femmes à la télé et à la radio" aria-label="Barres regroupées" id="datawrapper-chart-q1kIy" src="https://datawrapper.dwcdn.net/q1kIy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="17074" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
