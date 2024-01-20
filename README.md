@@ -1,1 +1,0 @@
-# DEFI_M2_EXAM
