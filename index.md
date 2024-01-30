@@ -3,6 +3,11 @@ M2 DEFI - Data Visualisation
 
 # Présentation du sujet : Contexte et problématique
 
+
+
+
+
+
 # Sommaire 
 1. intro choix
 2. traitement
@@ -31,9 +36,11 @@ Analyse
 ## Troisième visualisation
 Analyse
 Flourish?
+réfutation du truc
+ouverture maladie
+
 
 # Conclusion
+iniquité
 
-ouverture maladie
-////
----
+
