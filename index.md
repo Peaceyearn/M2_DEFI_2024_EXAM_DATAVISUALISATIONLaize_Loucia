@@ -49,10 +49,21 @@ Analyse
 
 
 ## Troisième visualisation
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+
 Analyse
 Flourish?
 réfutation du truc
 ouverture maladie
+
+
+
+
+
 
 
 # Conclusion
