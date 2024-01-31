@@ -32,19 +32,19 @@ Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des c
 | CRPCEN       | 62,5         |
 | ERAPF        | 65,325       |
 
-> Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil) 
+> Source : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil) 
 
 
 ▶ Le jeux de données n°3 :
 Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("Agriculteurs exploitants","Artisans", "commerçants", "chefs d'entreprise", qui sont le plus touchés par les maladies comme le "Cancers", "Diabète"... avec comme référent de 1, la catégorie cadre avec une probabilité de 1, les cadres et professions intellectuelles supérieures.
 J'ai enleve les éléments de textes superflus por le traitement et j'ai les nombres en desssous de chaque case dans les colonnes principales de catégories car elles faisaient trop de valeurs à traiter pour l’outil et je les ai remis au propre.
 
-> Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
+> Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 ▶ Le jeux de données n°4 :
 
 Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas". J'ai enlevé le reste des données "toutes catégories confondues" après la ligne "Maladies du foie ou du pancréas" car les données semblaient erronnées et se répétaient. Enfin le but était de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladie et pour ce faire,les données précédentes qui semblaient juste suffisaient. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
-> Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
+> Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation (#esperance-de-vie)
@@ -83,13 +83,12 @@ Le régime des caisses de retraites donne les modalités selon lesquelles les pr
 - ARCCO = cadres
 - RATP / SNCF = deux grandes entreprises de transport en France
 
-
 Nous observons que les CRPCEN (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles 
 Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). Réforme des retraites : ce qu’il faut savoir (demarchesadministratives.fr)
 
 
 
-https://datawrapper.dwcdn.net/F5xE6/1/
+> Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
 
 
 
@@ -110,6 +109,22 @@ Dans le jeu de données, les cadres servent de points de référence, fixé à 1
 
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
+
+
+Catégorie: Le type de maladie.
+Dixième de niveau de vie: La subdivision des données en dix groupes en fonction du niveau de vie.
+Santé: La condition de santé de la population (dans ce cas, "Population sans la maladie" semble indiquer l'état de santé sans la maladie spécifiée).
+Espérance de vie: L'espérance de vie associée à chaque groupe.
+Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
+
+
+
+Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques.
+Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile. 
+
+
+
+
 
 
 
