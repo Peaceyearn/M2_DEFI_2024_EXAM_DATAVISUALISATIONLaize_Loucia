@@ -9,7 +9,7 @@ La réforme des retraites révisant le système de retraite français réalisée
 1. Présentation du jeux de données
 2. L’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
 3. L’âge de départs en retraite des catégories socioprofessionnelles
-4. Les groupes socioprofessionnels le plus touché par les maladies
+4. Les groupes socioprofessionnels les plus touchés par les maladies
 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles
 
 # Présentation des jeux de données
@@ -79,13 +79,14 @@ https://datawrapper.dwcdn.net/F5xE6/1/
 
 
 
-## 
+## Les groupes socioprofessionnels les plus touchés par les maladies
 Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions,Agriculteurs exploitants, Artisans, commercants.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
+## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles
 
 
 
