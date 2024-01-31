@@ -30,9 +30,7 @@ Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niv
 | homme | Sans diplôme | 45,4 | 44,5 | 43,6 | 42,7 |
 | homme | Brevet | 48,4 | 47,5 | 46,5 | 45,6 |
 | homme | CAP-BEP | 49,4 | 48,4 | 47,5 | 46,5 |
-| homme | Baccalauréat | 51,2 | 50,3 | 49,3 | 48,3 |
-| homme | Supérieur | 53,0 | 52,0 | 51,1 | 50,1 |
-| homme | Ensemble | 49,3 | 48,4 | 47,4 | 46,5 |
+
 
 
 
