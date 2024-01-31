@@ -56,6 +56,11 @@ Notre premier jeu de données traite de l’espérance de vie selon les diplôme
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16619337"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+> Source :[Outil Florish](https://flourish.studio/) 
+
+
+
+
 Ab initio, nous observons un écart encore plus grand entre les hommes et les femmes, lorsque celles-ci sont plus diplômées sachant qu’en moyenne les femmes ont à l’origine une espérance de vie plus haute que les hommes (pour diverses raisons hormonales, sociétales…).En outre, le même phénomène entre les femmes est observable. Par exemple, une femme sans diplôme à 30 ans aura une espérance de vie de 52.9 quand une femme dans le supérieur aura une espérance de vie de 57.1. L’écart est de 4,2 ans. Cet écart d’espérance de vie selon les diplômes se retrouve dans toutes les catégories et se poursuit dans les tranches d’âges de 30 à 53 ans (puis tend à se réduire).Cet écart d’espérance de vie due au niveau d’éducation est encore plus marqué chez les hommes. Un homme sans diplôme a une espérance de vie de 45,4 ans à 30 ans, une espérance de vie de 40 ans à 36 ans et une espérance de vie de 34, 6 à 42 ans.A contrario, un homme avec un Brevet a une espérance de vie de 48,4 ans à 30 ans, une espérance de vie de 42,8 ans à 36 ans et une espérance de 37, 2 à 42 ans. Enfin, un homme dans le supérieur à une espérance de vie de 49,4 ans à 30 ans, une espérance de vie de 43,7 ans à 36 ans et une espérance de 38, 1 à 42 ans. On constate donc un bond de 3 points à l’âge de 30 entre un homme ayant un simplet brevet et un homme diplômé ce qui est plus que pour les femmes.
 
 
@@ -95,6 +100,7 @@ Nous observons que les CRPCEN (clercs et employés de notaire) partent à la ret
 Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions,Agriculteurs exploitants, Artisans, commercants.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+> Source :[Outil Florish](https://flourish.studio/) 
 
 Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent ce point de référence et sont plus touchés par le diabète, les maladies chroniques et autres. Les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaconeurovasculaires.
 
@@ -106,6 +112,7 @@ La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esper
 
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
+> Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
 
 Prenons par exemple la catégorie "Cancers", si l'on compare les valeurs entre le premier et le dernier dixième de niveau de vie, le premier dixième, 1, a une espérance de vie de 83,20 alors que le dernier dixième a une espérance de vie de 88,87. L'écart entre ces 2 groupes d'individus est de 5,67.Cela signifie que, en termes d'espérance de vie sans cancer, la population du dixième de niveau de vie le plus élevé (10) a une valeur plus élevée de 5,67 par rapport à la population du dixième de niveau de vie correspondant au chiffre 1. En d'autres termes, les personnes du dixième de niveau de vie le plus élevé ont une espérance de vie sans cancer plus élevée que celles du dixième le plus bas, et l'écart est de 5,67 ans.
 Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
