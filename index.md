@@ -5,6 +5,10 @@ M2 DEFI - Data Visualisation
 
 La réforme des retraites est-elle équitable ?
 
+
+![image](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/assets/121464401/9d39c09e-80a1-4e37-bb27-512835d6565b)
+
+
 La réforme des retraites révisant le système de retraite français réalisées pendant la mandature d'Emmanuel Macron, validée par le Conseil constitutionnel, le 14 avril 2023 et promulguée le jour même, a suscité de vives débats et des grèves violentes à travers tout le pays. Pourtant, la réforme a été présenté comme inéluctable par ses partisans. En effet, « Nous vivons plus longtemps et donc (…) nous devons travailler plus longtemps », a déclaré le ministre du travail, Olivier Dussopt. Pourtant, beaucoup de France ont jugé cette réforme inique et convoyeuse d’inégalité. Nous chercherons à travers quelques visualisations à explorer de façon impartiale les angles des inégalités potentielles véhiculée par la réforme.
 
 
@@ -34,13 +38,7 @@ Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niv
 
 Sources : Insee, Échantillon Démographique Permanent et état civil, 2009-2013.
 
-> Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
-
-Sources : Insee, Échantillon Démographique Permanent et état civil, 2009-2013.
-
-
-![image](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/assets/121464401/9d39c09e-80a1-4e37-bb27-512835d6565b)
 
 
 
