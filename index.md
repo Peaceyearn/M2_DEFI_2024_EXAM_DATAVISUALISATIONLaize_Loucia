@@ -125,8 +125,9 @@ Ainsi, mon approche s'est focalisée sur l'espérance de vie qui n'est pas pris 
 Les visualisations effectuées amènent donc légitimement se poser la question suivante :  la réforme des retraites contribuera-t-elle indirectement à agrandir dans les années à venir les inégalités socioéconomique existantes en france ?
 
 > Sources :
+
 -[Lois réforme des retraites - wikipédia](https://fr.wikipedia.org/wiki/R%C3%A9forme_des_retraites_en_France_en_2023)
-> 
+
 -[Réforme des retraites](https://www.service-public.fr/particuliers/actualites/A16717)
 
 -[Réforme des retraites :](https://demarchesadministratives.fr/guides/tout-comprendre-sur-la-reforme-des-retraites-et-ses-consequences) 
