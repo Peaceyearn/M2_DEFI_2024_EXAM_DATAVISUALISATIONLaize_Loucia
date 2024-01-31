@@ -115,7 +115,8 @@ On peut se demander si le fait que certaines catégories partent plus tôt à la
 
 
 ## Les groupes socioprofessionnels les plus touchés par les maladies <a name="4"></a>
-Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions :_Agriculteurs exploitants_, _Artisans_, _commercants_.
+
+Cette visualisation permet de rendre compte du risque moindre de contractrer des maladies chroniques chez les cadres et professions intellectuelles supérieures et de leur prévalence dans les autres professions :_Agriculteurs exploitants_, _Artisans_, _commercants_.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 > Source :[Outil Florish](https://flourish.studio/) 
