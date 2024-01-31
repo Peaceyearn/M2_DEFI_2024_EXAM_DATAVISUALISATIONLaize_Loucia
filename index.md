@@ -87,8 +87,6 @@ Le régime des caisses de retraites donne les modalités selon lesquelles les pr
 Nous observons que les CRPCEN (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles 
 Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). Réforme des retraites : ce qu’il faut savoir (demarchesadministratives.fr)
 
-
-
 > Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
 
 
@@ -104,24 +102,19 @@ Dans le jeu de données, les cadres servent de points de référence, fixé à 1
 
 ## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles (#inegalite-esperance-vie)
 
-
+Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles et couvre les années 2016 à 2017.
+La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esperance de vie". A Gauche de chaque barre de variables, se trouve des types de maladies :  
 
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-
-Catégorie: Le type de maladie.
-Dixième de niveau de vie: La subdivision des données en dix groupes en fonction du niveau de vie.
+Le dixième de niveau de vie correspond dans le jeux de données en dix groupes en fonction du niveau de vie auquelle on a associé une espérance de vie.
 Santé: La condition de santé de la population (dans ce cas, "Population sans la maladie" semble indiquer l'état de santé sans la maladie spécifiée).
 Espérance de vie: L'espérance de vie associée à chaque groupe.
 Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
 
 
-
-Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques.
-Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile. 
-
-
+Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile. Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.
 
 
 
