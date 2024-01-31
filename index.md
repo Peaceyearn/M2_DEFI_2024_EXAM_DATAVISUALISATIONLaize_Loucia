@@ -75,17 +75,16 @@ Ces données représentent l'âge de départ à la retraite pour différents ré
 
 Le régime des caisses de retraites donne les modalités selon lesquelles les prestations de retraite sont gérées et distribuées par une caisse de retraite spécifique. En France, il existe plusieurs caisses de retraite, chacune gérant les pensions de retraite pour des catégories spécifiques de travailleurs ou de secteurs d'activité. 
 
-
-- CNIEG = caisse nationale des industries gazières et électriques
-- CNRACL = retraite des fonctionnaires territoriaux et hospitaliers
-- CRPCEN = clercs et employés de notaire
 - ERAPF = retraite additionnelle de la fonction publique
-- FSPOEIE = retraite des ouvriers d’état
-- SSI = sécurité des sociales des indépendants
-- CAVIMAC = ministres des cultes et des membres des congrégations et des collectivités religieuses
-- CANSSM = Caisse autonome nationale de la sécurité sociale dans les mines
+- CRPCEN = clercs et employés de notaire
 - AGIRC = la quasi-totalité des salariés de l’industrie, du commerce, des services de l’agriculture
 - ARCCO = cadres
+- CNRACL = retraite des fonctionnaires territoriaux et hospitaliers
+- SSI = sécurité des sociales des indépendants
+- FSPOEIE = retraite des ouvriers d’état
+- Banque de France = travailleurs du secteur privé.
+- CAVIMAC = ministres des cultes et des membres des congrégations et des collectivités religieuses
+- CNIEG = caisse nationale des industries gazières et électriques
 - RATP / SNCF = deux grandes entreprises de transport en France
 
 Nous observons que les _CRPCEN_ (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles.Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). 
@@ -95,7 +94,7 @@ Nous observons que les _CRPCEN_ (clercs et employés de notaire) partent à la r
 ## Les groupes socioprofessionnels les plus touchés par les maladies (#groupes-plus-touches-maladies) <a name="4"></a>
 Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions :_Agriculteurs exploitants_, _Artisans_, _commercants_.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 > Source :[Outil Florish](https://flourish.studio/) 
 
 Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent largement ce point de référence, elles sont plus touchées par le diabète, les maladies chroniques... .Par exemple, les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaoneurovasculaires.
