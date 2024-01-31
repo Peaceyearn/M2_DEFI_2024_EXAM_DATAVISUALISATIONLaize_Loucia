@@ -10,13 +10,13 @@ La réforme des retraites révisant le système de retraite français réalisée
 
 
 # Sommaire 
-1. [Présentation des jeux de données](#presentation-jeux-de-donnees)
-2. [L’espérance de vie de 30 à 80 ans selon le niveau d’éducation](#esperance-de-vie) 
-3. [L’âge de départs en retraite des catégories socioprofessionnelles](#age-de-departs-retraite)
-4. [Les groupes socioprofessionnels les plus touchés par les maladies](#groupes-plus-touches-maladies)
-5. [Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles](#inegalite-esperance-vie)
+1. [Présentation des jeux de données](#1)
+2. [L’espérance de vie de 30 à 80 ans selon le niveau d’éducation](#2) 
+3. [L’âge de départs en retraite des catégories socioprofessionnelles](#3)
+4. [Les groupes socioprofessionnels les plus touchés par les maladies](#4)
+5. [Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles](#5)
 
-# Présentation des jeux de données (#presentation-jeux-de-donnees)
+# Présentation des jeux de données <a name="1"></a>
 
 ▶ Le jeux de données n°1 :
 
@@ -24,7 +24,7 @@ Ce jeu de données porte sur l’espérance de vie de 30 à 90 ans selon le nive
 
 > Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil) 
 
-▶ Le jeux de données n°2 :
+▶ Le jeux de données n°2 :  
 Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des catégories socioprofessionnelles par année, sexe et régime. J'ai enleve les données au dessus de 2009 et excédant 2013 car le jeux de données précédent à la même date et est lié.Puis j'ai enlevé les catégories CC et sexe qui ne m'intéressaient pas ainsi que des catégories comme la CNAV puisque tout le monde cautise à la CNAV donc ce n‘est pas vraiment représentatif et aussi car certaines données étaient incomplètes au niveau des dates. Enfin j'ai fait la moyenne par catégories de 2009 à 2013 pour chaque catégorie (CNIEG) sur Excel avec les fonctions calcul de moyennnes.
 
 
@@ -51,7 +51,7 @@ Ce jeu de données porte sur les inégalité d’espérance de vie due au maladi
 
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
-## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation (#esperance-de-vie)
+## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation <a name="2"></a>
 Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (sans diplôme, Brevet, CAP-BEP, Baccalauréat, Supérieur). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16619337"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -66,7 +66,7 @@ A partir de 70 ans pour les hommes, l’écart d’espérance de vie diminue sen
 Nous concluons d’après ces données que l’espérance de vie est indéniablement liée au niveau d’éducation car des études ont montrées que plus le niveau d’éducation est élevée plus grande est la sensibilisation à la qualité de vie. Et donc l’impact sur l’espérance de vie est plus conséquent.Suivant cette visualisation, il paraît alors juste de se demander, dans le cas où l’espérance de vie est asymmétrique selon le niveau d’éducation, est-elle prise en compte dans le temps de travail et le droit de prendre sa retraite prématurément et d’échapper au prolongement de la durée de travail prévue par la loi récemment passée ?
 
 
-## L’âge de départs en retraite des catégories socioprofessionnelles(#age-de-departs-retraite)
+## L’âge de départs en retraite des catégories socioprofessionnelles(#age-de-departs-retraite) <a name="3"></a>
 
 Ces données représentent l'âge de départ à la retraite pour différents régimes de retraite ou caisses en France de 2009 à 2013… Ces données de caisses de retraites permettent de faire une visualisation rendant compte de l’âge de départ des catégories socioprofessionnelles. Chaque chart indique le nom de la caisse et l'âge de départ à la retraite présumé ou conjecturel associé. L'âge de départ à la retraite peut varier en fonction de la caisse et des spécificités du régime de retraite associé.
 
@@ -91,7 +91,7 @@ Nous observons que les CRPCEN (clercs et employés de notaire) partent à la ret
 
 > Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
 
-## Les groupes socioprofessionnels les plus touchés par les maladies (#groupes-plus-touches-maladies)
+## Les groupes socioprofessionnels les plus touchés par les maladies (#groupes-plus-touches-maladies) <a name="4"></a>
 Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions,Agriculteurs exploitants, Artisans, commercants.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -99,7 +99,7 @@ Cette visualisation permet de rendre compte de la rareté des maladies chez les 
 Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent ce point de référence et sont plus touchés par le diabète, les maladies chroniques et autres. Les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaconeurovasculaires.
 
 
-## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles (#inegalite-esperance-vie)
+## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles <a name="5"></a>
 
 Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles et couvre les années 2016 à 2017.
 La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esperance de vie". .Le dixième de niveau de vie correspond dans le jeux de données en dix groupes(chaque groupe allant de 1 à 6) en fonction du niveau de vie. Une espérance de vie à été associé une espérance de vie. Les types de catégories ne sont pas détaillées dans le jeux de données.Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile.A Gauche de chaque barre de variables, se trouve des types de maladies (Diabètes, Maladies du foie ou du pancréas...) 
