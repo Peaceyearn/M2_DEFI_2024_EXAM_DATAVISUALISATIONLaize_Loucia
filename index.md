@@ -15,17 +15,29 @@ M2 DEFI - Data Visualisation
 
 
 # Sommaire 
-1. intro choix
-2. Visualisation de l’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
+1. Présentation du jeux de données
+2. L’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
 3. traitement
 4. 
 
 
 
-# Jeu de données
+# Présentation des jeux de données
 
-Datacleaning
-modification
+
+La réforme des retraites est-elle équitable ?
+
+La réforme des retraites révisant le système de retraite français réalisées pendant la mandature d'Emmanuel Macron, validée par le Conseil constitutionnel, le 14 avril 2023 et promulguée le jour même, a suscité de vives débats et des grèves violentes à travers tout le pays. Pourtant, la réforme a été présenté comme inéluctable par ses partisans. En effet, « Nous vivons plus longtemps et donc (…) nous devons travailler plus longtemps », a déclaré le ministre du travail, Olivier Dussopt. Pourtant, beaucoup de France ont jugé cette réforme inique et convoyeuse d’inégalité. Nous chercherons à travers quelques visualisations à explorer de façon impartiale les angles des inégalités potentielles véhiculée par la réforme.
+
+
+
+-Le jeux de données n°1 :
+
+Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niveau d’éducation ou diplôme.
+
+J'ai effectué une modification en réconciliant les colonnes hommes et femmes. J'ai procédé au data cleaning en enlevant par années et les éléments de textes. 
+Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, les écarts ne sont plus significatifs et tendent à se réduire.
+
 
 ### Voici un extrait du fichier traité:
 
@@ -38,10 +50,12 @@ modification
 | Supérieur     | 57,1   | 56,1   | 55,1   | 54,1   |
 | Ensemble      | 55,4   | 54,4   | 53,4   | 52,4   |
 
+
+
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
 
-
+Sources : Insee, Échantillon Démographique Permanent et état civil, 2009-2013.
 
 
 ![image](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/assets/121464401/9d39c09e-80a1-4e37-bb27-512835d6565b)
