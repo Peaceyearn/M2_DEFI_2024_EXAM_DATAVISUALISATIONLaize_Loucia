@@ -42,23 +42,18 @@ J'ai enleve les éléments de textes superflus por le traitement et j'ai les nom
 
 ▶ Le jeux de données n°4 :
 
-Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données 	
-
-
-et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas"
-
-
+Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas". J'ai enleve le reste des données "toutes catégories confondues" après la ligne "Maladies du foie ou du pancréas" car les données semblaient erronnées et se répétaient. Enfin le but étaient de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladie et pour ce faire,les données précédentes qui semblaient juste suffisaient. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
 > Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 
-▶ Le jeux de données n°4 :
-
-## Première visualisation
+## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
+Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (sans diplôme, Brevet, CAP-BEP, Baccalauréat, Supérieur). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16619337"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Ab initio, nous observons un écart encore plus grand entre les hommes et les femmes, lorsque celles-ci sont plus diplômées sachant qu’en moyenne les femmes ont à l’origine une espérance de vie plus haute que les hommes (pour diverses raisons hormonales, sociétales…).En outre, le même phénomène entre les femmes est observable. Par exemple, une femme sans diplôme à 30 ans aura une espérance de vie de 52.9 quand une femme dans le supérieur aura une espérance de vie de 57.1. L’écart est de 4,2 ans. Cet écart d’espérance de vie selon les diplômes se retrouve dans toutes les catégories et se poursuit dans les tranches d’âges de 30 à 53 ans (puis tend à se réduire).
 
-Analyse
+
 
 ## Visualisation de l’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
 
@@ -68,7 +63,6 @@ Analyse
 https://datawrapper.dwcdn.net/F5xE6/1/
 
 
-Analyse
 
 
 ## Troisième visualisation
@@ -92,10 +86,16 @@ Analyse
 
 
 
-Analyse
+
+
+
 
 
 # Conclusion
+
+
+Les limites: 
+Certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données. Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
 
 
 
