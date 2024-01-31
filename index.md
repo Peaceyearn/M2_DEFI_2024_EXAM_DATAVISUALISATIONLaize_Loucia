@@ -14,7 +14,7 @@ La réforme des retraites révisant le système de retraite français réalisée
 2. [L’espérance de vie de 30 à 80 ans selon le niveau d’éducation](#2) 
 3. [L’âge de départ en retraite des catégories socioprofessionnelles](#3)
 4. [Les groupes socioprofessionnels les plus touchés par les maladies](#4)
-5. [Inégalité d’espérance de vie due aux maladiex chroniques selon les catégories socioprofessionnelles](#5)
+
 
 # Présentation des jeux de données <a name="1"></a>
 
@@ -59,16 +59,6 @@ Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("
 > Source :[Jeux de données 3 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_original_maladies_chroniques_et_esp%C3%A9rance_de_vie.xlsx)
 
 
-
-▶ Le jeux de données n°4 :
-
-Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes _"Categorie_",	"_Dixieme de niveau de vie_",	"_Sante"Esperance de vie_" avec des données sur la "_Population sans la maladie_" et des données sur les types de maladies_"_Diabète_", "_Maladies du foie ou du pancréas_". J'ai enlevé le reste des données "_toutes catégories confondues_" après la ligne "_Maladies du foie ou du pancréas" car les données semblaient erronnées, elles se répétaient.Etant donné que le but était de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladies_, les données précédentes portant sur la population sans la maladie qui semblaient juste, suffisaient à montrer les écarts entre les groupes sociaux bien que des données de population avec les maladies aurait été préférables. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
-
-> Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
-
-> Source : [Jeux de données 4 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_B_inegalite_esperance_vie_due_maladie_chronique.xlsx)
-
-> Source :[Jeux de données 3 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_original_maladies_chroniques_et_esp%C3%A9rance_de_vie.xlsx)
 
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation <a name="2"></a>
 Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (_sans diplôme_, _Brevet_, _CAP-BEP_, _Baccalauréat_, _Supérieur_). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
@@ -124,17 +114,6 @@ Cette visualisation permet de rendre compte du risque moindre de contractrer des
 Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent largement ce point de référence, elles sont plus touchées par le diabète, les maladies chroniques... .Par exemple, les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaoneurovasculaires.
 
 
-## 5. Inégalité d’espérance de vie dues aux maladies chroniques selon les catégories socio-professionnelles <a name="5"></a>
-
-Ce jeu de données porte sur les inégalités d’espérance de vie dues aux maladies chroniques selon les catégories socio-professionnelles et couvre les années 2016 à 2017.
-La visualisation a 2 variables affichées : "_Dixieme de niveau de vie_" et "_Esperance de vie_". .Le dixième de niveau de vie correspond dans le jeu de données en dix groupes(chaque groupe allant de 1 à 10) en fonction du niveau de vie. Les types de catégories ne sont pas détaillées dans le jeu de données.Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euros par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile.A gauche de chaque barre de variables, se trouvent des types de maladies chroniques (Diabètes, Maladies du foie ou du pancréas...) 
-
-<iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script>
-> Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
-
-Prenons par exemple la catégorie "Cancers", si l'on compare les valeurs entre le premier et le dernier dixième de niveau de vie, le premier dixième, 1, a une espérance de vie de 83,20 alors que le dernier dixième a une espérance de vie de 88,87. L'écart entre ces 2 groupes d'individus est de 5,67.Cela signifie que, en termes d'espérance de vie sans cancer, la population du dixième de niveau de vie le plus élevé (10) a une valeur plus élevée de 5,67 par rapport à la population du dixième de niveau de vie correspondant au chiffre 1. En d'autres termes, les personnes du dixième de niveau de vie le plus élevé ont une espérance de vie sans cancer plus élevée que celles du dixième le plus bas, et l'écart est de 5,67 ans.
-Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
 
 # Conclusion
 
