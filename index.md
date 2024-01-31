@@ -29,14 +29,14 @@ modification
 
 ### Voici un extrait du fichier traité:
 
-| Diplome | 30 ans | 31 ans  | 32 ans| | 32 ans|
-|-------|--------------------|--------------------|----------------------|
-| Sans diplôme  52,9            |    	52,0  |    51,0       |    50,0       |
-| Brevet  | 55,3	|54,4	|53,4|	52,4|
-| CAP-BEP	  | BFM TV             |     3 501 573      |     1 773 802        |
-| Baccalauréat  | Canal+             |     3 339 791      |        916 718       |
-| Supérieur  | Canal+ Sport       |     2 761 056      |        142 649       |
-| Ensemble	 | Animaux            |     1 634 839      |        942 338       |
+| Diplôme       | 30 ans | 31 ans | 32 ans | 33 ans |
+| ------------- | ------ | ------ | ------ | ------ |
+| Sans diplôme  | 52,9   | 52,0   | 51,0   | 50,0   |
+| Brevet        | 55,3   | 54,4   | 53,4   | 52,4   |
+| CAP-BEP       | 56,1   | 55,1   | 54,1   | 53,2   |
+| Baccalauréat  | 56,7   | 55,8   | 54,8   | 53,8   |
+| Supérieur     | 57,1   | 56,1   | 55,1   | 54,1   |
+| Ensemble      | 55,4   | 54,4   | 53,4   | 52,4   |
 
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
