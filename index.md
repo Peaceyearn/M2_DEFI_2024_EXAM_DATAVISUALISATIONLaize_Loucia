@@ -53,6 +53,16 @@ Analyse
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+
+- Premieier
+- Deuxième élément
+  - Élément imbriqué 1
+  - Élément imbriqué 2
+- Troisième élément
+
+
+
+
 ## Maladies chroniques selon les groupes socioprofessionnel
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
