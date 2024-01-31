@@ -67,6 +67,7 @@ Ce jeu de données porte sur les inégalité d’espérance de vie due au maladi
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 > Source : [Jeux de données 4 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_B_inegalite_esperance_vie_due_maladie_chronique.xlsx)
+
 > Source :[Jeux de données 3 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_original_maladies_chroniques_et_esp%C3%A9rance_de_vie.xlsx)
 
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation <a name="2"></a>
