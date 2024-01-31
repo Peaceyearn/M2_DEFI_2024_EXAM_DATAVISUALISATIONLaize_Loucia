@@ -1,16 +1,11 @@
 # Devoir de M2 DEFI - Data Visualisation
 M2 DEFI - Data Visualisation
 
-
-
-
 ![image_illustration_examen_depart_retraite](image_illustration_examen_depart_retraite.png)
 
+La réforme des retraites est-elle équitable ?
 
-# Présentation du sujet : Contexte et problématique
-
-
-
+La réforme des retraites révisant le système de retraite français réalisées pendant la mandature d'Emmanuel Macron, validée par le Conseil constitutionnel, le 14 avril 2023 et promulguée le jour même, a suscité de vives débats et des grèves violentes à travers tout le pays. Pourtant, la réforme a été présenté comme inéluctable par ses partisans. En effet, « Nous vivons plus longtemps et donc (…) nous devons travailler plus longtemps », a déclaré le ministre du travail, Olivier Dussopt. Pourtant, beaucoup de France ont jugé cette réforme inique et convoyeuse d’inégalité. Nous chercherons à travers quelques visualisations à explorer de façon impartiale les angles des inégalités potentielles véhiculée par la réforme.
 
 
 
@@ -20,16 +15,7 @@ M2 DEFI - Data Visualisation
 3. 
 4. 
 
-
-
 # Présentation des jeux de données
-
-
-La réforme des retraites est-elle équitable ?
-
-La réforme des retraites révisant le système de retraite français réalisées pendant la mandature d'Emmanuel Macron, validée par le Conseil constitutionnel, le 14 avril 2023 et promulguée le jour même, a suscité de vives débats et des grèves violentes à travers tout le pays. Pourtant, la réforme a été présenté comme inéluctable par ses partisans. En effet, « Nous vivons plus longtemps et donc (…) nous devons travailler plus longtemps », a déclaré le ministre du travail, Olivier Dussopt. Pourtant, beaucoup de France ont jugé cette réforme inique et convoyeuse d’inégalité. Nous chercherons à travers quelques visualisations à explorer de façon impartiale les angles des inégalités potentielles véhiculée par la réforme.
-
-
 
 -Le jeux de données n°1 :
 
