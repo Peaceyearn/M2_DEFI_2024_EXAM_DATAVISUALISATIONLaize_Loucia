@@ -35,14 +35,14 @@ Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des c
 
 
 ▶ Le jeux de données n°3 :
-Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("Agriculteurs exploitants","Artisans", "commerçants", "chefs d'entreprise", qui sont le plus touché par les maladies comme le "Cancers", "Diabète", "Maladies cardioneurovasculaires" avec comme référent de 1, la catégorie cadre avec une probabilité de 1, les cadres et professions intellectuelles supérieures.
+Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("Agriculteurs exploitants","Artisans", "commerçants", "chefs d'entreprise", qui sont le plus touchés par les maladies comme le "Cancers", "Diabète"... avec comme référent de 1, la catégorie cadre avec une probabilité de 1, les cadres et professions intellectuelles supérieures.
 J'ai enleve les éléments de textes superflus por le traitement et j'ai les nombres en desssous de chaque case dans les colonnes principales de catégories car elles faisaient trop de valeurs à traiter pour l’outil et je les ai remis au propre.
 
 > Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 ▶ Le jeux de données n°4 :
 
-Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas". J'ai enleve le reste des données "toutes catégories confondues" après la ligne "Maladies du foie ou du pancréas" car les données semblaient erronnées et se répétaient. Enfin le but étaient de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladie et pour ce faire,les données précédentes qui semblaient juste suffisaient. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
+Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas". J'ai enlevé le reste des données "toutes catégories confondues" après la ligne "Maladies du foie ou du pancréas" car les données semblaient erronnées et se répétaient. Enfin le but était de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladie et pour ce faire,les données précédentes qui semblaient juste suffisaient. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
 > Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 
