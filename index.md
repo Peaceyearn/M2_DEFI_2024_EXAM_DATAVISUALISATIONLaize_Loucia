@@ -47,6 +47,7 @@ Ce jeu de données porte sur les inégalité d’espérance de vie due au maladi
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 
+
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation (#esperance-de-vie)
 Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (sans diplôme, Brevet, CAP-BEP, Baccalauréat, Supérieur). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
 
@@ -98,9 +99,7 @@ Cette visualisation permet de rendre compte de la rareté des maladies chez les 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent ce point de référence et sont plus touchés par le diabète, les maladies chroniques et autres. Les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence.
-
-
+Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent ce point de référence et sont plus touchés par le diabète, les maladies chroniques et autres. Les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaconeurovasculaires.
 
 
 ## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles (#inegalite-esperance-vie)
