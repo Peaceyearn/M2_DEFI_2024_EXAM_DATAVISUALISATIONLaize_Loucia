@@ -70,14 +70,13 @@ Ces données représentent l'âge de départ à la retraite pour différents ré
 Le régime des caisses de retraites donne les modalités selon lesquelles les prestations de retraite sont gérées et distribuées par une caisse de retraite spécifique. En France, il existe plusieurs caisses de retraite, chacune gérant les pensions de retraite pour des catégories spécifiques de travailleurs ou de secteurs d'activité. 
 
 
-- Premieier
-- Deuxième élément
+- CNIEG = caisse nationale des industries gazières et électriques
+- CNRACL = retraite des fonctionnaires territoriaux et hospitaliers
   - Élément imbriqué 1
   - Élément imbriqué 2
 - Troisième élément
 
-CNIEG = caisse nationale des industries gazières et électriques
-CNRACL = retraite des fonctionnaires territoriaux et hospitaliers
+
 CRPCEN = clercs et employés de notaire
 ERAPF = retraite additionnelle de la fonction publique
 FSPOEIE = retraite des ouvriers d’état
