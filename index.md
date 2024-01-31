@@ -73,7 +73,8 @@ Ce jeu de données porte sur les inégalité d’espérance de vie due au maladi
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation <a name="2"></a>
 Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (_sans diplôme_, _Brevet_, _CAP-BEP_, _Baccalauréat_, _Supérieur_). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/16619337"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/16645036"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 > Source :[Outil Florish](https://flourish.studio/) 
 
