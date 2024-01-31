@@ -24,6 +24,7 @@ Ce jeu de données porte sur l’espérance de vie de 30 à 90 ans selon le nive
 
 > Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil)
 > Source :[Jeux de données 1 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_1_Esperance_vie_diplome.xlsx)
+
 > Source : [Jeux de données 1 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_1_original_Esperance_Vie_par_diplome.xlsx)
 
 ▶ Le jeux de données n°2 :  
@@ -50,7 +51,9 @@ Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des c
 Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("_Agriculteurs exploitants_","_Artisans_", "_commerçants_", "_chefs d'entreprise_", qui sont le plus touchés par les maladies comme le "_Cancers_", "_Diabète_"... avec comme référent de 1 la catégorie _les cadres et professions intellectuelles supérieures_.J'ai enlevé les éléments de textes superflus por le traitement et j'ai les nombres en desssous de chaque case dans les colonnes principales de catégories car elles faisaient trop de valeurs à traiter pour l’outil et je les ai remis au propre.
 
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
+
 > Source :  [Jeux de données 3 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_A_maladies_chroniques_groupe_socioprofessionnel.xlsx)
+
 > Source :[Jeux de données 3 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_original_maladies_chroniques_et_esp%C3%A9rance_de_vie.xlsx)
 
 
