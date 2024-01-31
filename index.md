@@ -2,6 +2,10 @@
 
 ![image_illustration_examen_depart_retraite](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/assets/121464401/ea769c87-5805-4eba-98f0-97c1f309d6de)
 
+> Source : [illustration_age_depart_retraite](https://www.ined.fr/fr/tout-savoir-population/jeux/l-esperance-de-vie/)
+Réalisation : agence Gorille
+
+
 La réforme des retraites révisant le système de retraite français réalisées pendant la mandature d'Emmanuel Macron, validée par le Conseil constitutionnel, le 14 avril 2023 et promulguée le jour même, a suscité de vives débats et des grèves violentes à travers tout le pays. Pourtant, la réforme a été présenté comme inéluctable par ses partisans. En effet, « Nous vivons plus longtemps et donc (…) nous devons travailler plus longtemps », a déclaré le ministre du travail, Olivier Dussopt. Pourtant, beaucoup de France ont jugé cette réforme inique et convoyeuse d’inégalité. Nous chercherons à travers quelques visualisations à explorer de façon impartiale les angles des inégalités potentielles véhiculée par la réforme.
 
 
@@ -100,13 +104,17 @@ Dans le jeu de données, les cadres servent de points de référence, fixé à 1
 ## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles (#inegalite-esperance-vie)
 
 Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles et couvre les années 2016 à 2017.
-La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esperance de vie". A Gauche de chaque barre de variables, se trouve des types de maladies :  
+La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esperance de vie". .Le dixième de niveau de vie correspond dans le jeux de données en dix groupes(chaque groupe allant de 1 à 6) en fonction du niveau de vie. Une espérance de vie à été associé une espérance de vie. Les types de catégories ne sont pas détaillées dans le jeux de données.Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile.A Gauche de chaque barre de variables, se trouve des types de maladies (Diabètes, Maladies du foie ou du pancréas...) 
 
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-Le dixième de niveau de vie correspond dans le jeux de données en dix groupes en fonction du niveau de vie. Une espérance de vie à été associé une espérance de vie.
-à chaque groupe allant de 1 à 6. Les types de catégories ne sont pas détaillées dans le jeux de données.Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile. Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
+
+
+Prenons par exemple la catégorie "Cancers", si l'on compare les valeurs entre le premier et le dernier dixième de niveau de vie, le premier dixième, 1, a une espérance de vie de 83,20 alors que le dernier dixième a une espérance de vie de 88,87. L'écart entre ces 2 groupes d'individus est de 5,67.Cela signifie que, en termes d'espérance de vie sans cancer, la population du dixième de niveau de vie le plus élevé (10) a une valeur plus élevée de 5,67 par rapport à la population du dixième de niveau de vie correspondant au chiffre 1. En d'autres termes, les personnes du dixième de niveau de vie le plus élevé ont une espérance de vie sans cancer plus élevée que celles du dixième le plus bas, et l'écart est de 5,67 ans.
+Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
+
+
 
 # Conclusion
 
@@ -116,7 +124,18 @@ Le dixième de niveau de vie correspond dans le jeux de données en dix groupes 
 
 
 
-Les limites: 
-Certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données. Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
+On peut donc légitimement se demander si la réforme des retraites agrandira dans les années à venir les inégalités socioéconomique existante.
+
+Concernant les limites de l'étude, certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données.
+
+
+Un des jeux de données 
+
+
+
+Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
+
+
+
 
 
