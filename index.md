@@ -19,6 +19,20 @@ La réforme des retraites révisant le système de retraite français réalisée
 Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niveau d’éducation ou diplôme.J'ai effectué une modification en réconciliant les colonnes hommes et femmes. J'ai procédé au data cleaning en enlevant par années et les éléments de textes. Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, les écarts ne sont plus significatifs et tendent à se réduire.
 
 ### Voici un extrait du fichier traité:
+| Genre | Diplôme | 30 ans | 31 ans | 32 ans | 33 ans |
+|-------|---------|--------|--------|--------|--------|
+| femme | Sans diplôme | 52,9 | 52,0 | 51,0 | 50,0 |
+| femme | Brevet | 55,3 | 54,4 | 53,4 | 52,4 |
+| femme | CAP-BEP | 56,1 | 55,1 | 54,1 | 53,2 |
+| femme | Baccalauréat | 56,7 | 55,8 | 54,8 | 53,8 |
+| femme | Supérieur | 57,1 | 56,1 | 55,1 | 54,1 |
+| femme | Ensemble | 55,4 | 54,4 | 53,4 | 52,4 |
+| homme | Sans diplôme | 45,4 | 44,5 | 43,6 | 42,7 |
+| homme | Brevet | 48,4 | 47,5 | 46,5 | 45,6 |
+| homme | CAP-BEP | 49,4 | 48,4 | 47,5 | 46,5 |
+| homme | Baccalauréat | 51,2 | 50,3 | 49,3 | 48,3 |
+| homme | Supérieur | 53,0 | 52,0 | 51,1 | 50,1 |
+| homme | Ensemble | 49,3 | 48,4 | 47,4 | 46,5 |
 
 
 
