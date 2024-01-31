@@ -17,7 +17,7 @@ M2 DEFI - Data Visualisation
 # Sommaire 
 1. Présentation du jeux de données
 2. L’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
-3. traitement
+3. 
 4. 
 
 
@@ -33,11 +33,7 @@ La réforme des retraites révisant le système de retraite français réalisée
 
 -Le jeux de données n°1 :
 
-Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niveau d’éducation ou diplôme.
-
-J'ai effectué une modification en réconciliant les colonnes hommes et femmes. J'ai procédé au data cleaning en enlevant par années et les éléments de textes. 
-Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, les écarts ne sont plus significatifs et tendent à se réduire.
-
+Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niveau d’éducation ou diplôme.J'ai effectué une modification en réconciliant les colonnes hommes et femmes. J'ai procédé au data cleaning en enlevant par années et les éléments de textes. Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, les écarts ne sont plus significatifs et tendent à se réduire.
 
 ### Voici un extrait du fichier traité:
 
@@ -50,7 +46,7 @@ Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, 
 | Supérieur     | 57,1   | 56,1   | 55,1   | 54,1   |
 | Ensemble      | 55,4   | 54,4   | 53,4   | 52,4   |
 
-
+Sources : Insee, Échantillon Démographique Permanent et état civil, 2009-2013.
 
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
