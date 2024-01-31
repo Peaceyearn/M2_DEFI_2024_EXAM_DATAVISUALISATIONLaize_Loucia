@@ -61,16 +61,34 @@ A partir de 70 ans pour les hommes, l’écart d’espérance de vie diminue sen
 Nous concluons d’après ces données que l’espérance de vie est indéniablement liée au niveau d’éducation car des études ont montrées que plus le niveau d’éducation est élevée plus grande est la sensibilisation à la qualité de vie. Et donc l’impact sur l’espérance de vie est plus conséquent.Suivant cette visualisation, il paraît alors juste de se demander, dans le cas où l’espérance de vie est asymmétrique selon le niveau d’éducation, est-elle prise en compte dans le temps de travail et le droit de prendre sa retraite prématurément et d’échapper au prolongement de la durée de travail prévue par la loi récemment passée ?
 
 
-
-
 ## L’âge de départs en retraite des catégories socioprofessionnelles
 
-
+Ces données représentent l'âge de départ à la retraite pour différents régimes de retraite ou caisses en France de 2009 à 2013… Ces données de caisses de retraites permettent de faire une visualisation rendant compte de l’âge de départ des catégories socioprofessionnelles. Chaque chart indique le nom de la caisse et l'âge de départ à la retraite présumé ou conjecturel associé. L'âge de départ à la retraite peut varier en fonction de la caisse et des spécificités du régime de retraite associé.
 
 <iframe title="Age conjoncturel de départ à la retraite" aria-label="Stacked Bars" id="datawrapper-chart-F5xE6" src="https://datawrapper.dwcdn.net/F5xE6/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="510" data-external="1"></iframe>
 
+Le régime des caisses de retraites donne les modalités selon lesquelles les prestations de retraite sont gérées et distribuées par une caisse de retraite spécifique. En France, il existe plusieurs caisses de retraite, chacune gérant les pensions de retraite pour des catégories spécifiques de travailleurs ou de secteurs d'activité. 
 
 
+- Premieier
+- Deuxième élément
+  - Élément imbriqué 1
+  - Élément imbriqué 2
+- Troisième élément
+
+CNIEG = caisse nationale des industries gazières et électriques
+CNRACL = retraite des fonctionnaires territoriaux et hospitaliers
+CRPCEN = clercs et employés de notaire
+ERAPF = retraite additionnelle de la fonction publique
+FSPOEIE = retraite des ouvriers d’état
+SSI = sécurité des sociales des indépendants
+CAVIMAC = ministres des cultes et des membres des congrégations et des collectivités religieuses.
+CANSSM = Caisse autonome nationale de la sécurité sociale dans les mines
+AGIRC = la quasi-totalité des salariés de l’industrie, du commerce, des services de l’agriculture
+ARCCO = cadres
+RATP / SNCF = deux grandes entreprises de transport en France
+Nous observons que les CRPCEN (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles 
+Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). Réforme des retraites : ce qu’il faut savoir (demarchesadministratives.fr)
 
 
 
@@ -84,6 +102,9 @@ Cette visualisation permet de rendre compte de la rareté des maladies chez les 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent ce point de référence et sont plus touchés par le diabète, les maladies chroniques et autres. Les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence.
+
+
 
 
 ## 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles
@@ -92,11 +113,6 @@ Cette visualisation permet de rendre compte de la rareté des maladies chez les 
 
 
 
-- Premieier
-- Deuxième élément
-  - Élément imbriqué 1
-  - Élément imbriqué 2
-- Troisième élément
 
 
 
