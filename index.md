@@ -17,20 +17,7 @@ La réforme des retraites révisant le système de retraite français réalisée
 
 Ce jeu de données porte sur l’espérance de vie de 30 à 90 ans selon le niveau d’éducation ou diplôme.J'ai effectué une modification en réconciliant les colonnes hommes et femmes. J'ai procédé au data cleaning en enlevant par années et les éléments de textes. Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, les écarts ne sont plus significatifs et tendent à se réduire.
 
-### Voici un extrait des extraits fichiers traités:
-| Genre | Diplôme | 30 ans | 31 ans | 32 ans | 33 ans |
-|-------|---------|--------|--------|--------|--------|
-| femme | Sans diplôme | 52,9 | 52,0 | 51,0 | 50,0 |
-| femme | Brevet | 55,3 | 54,4 | 53,4 | 52,4 |
-| femme | CAP-BEP | 56,1 | 55,1 | 54,1 | 53,2 |
-| femme | Baccalauréat | 56,7 | 55,8 | 54,8 | 53,8 |
-| femme | Supérieur | 57,1 | 56,1 | 55,1 | 54,1 |
-| femme | Ensemble | 55,4 | 54,4 | 53,4 | 52,4 |
-| homme | Sans diplôme | 45,4 | 44,5 | 43,6 | 42,7 |
-| homme | Brevet | 48,4 | 47,5 | 46,5 | 45,6 |
-| homme | CAP-BEP | 49,4 | 48,4 | 47,5 | 46,5 |
-
-Sources : Insee, Échantillon Démographique Permanent et état civil, 2009-2013.
+> Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil) 
 
 Le jeux de données n°2 :
 Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des catégories socioprofessionnelles par année, sexe et régime
@@ -39,8 +26,6 @@ J'ai enleve les données au dessus de 2009 à 2013
 Puis j'ai enlevé les catégories CC et sexe qui ne m'intéressaient pas ainsi que des catégories
 
 Dans chaque categorie on enleve les données avant 2012 et on garde jusqu’à 2021. Puis j’ai enleve la CNAV puisque tout le monde cautise à la CNAV donc ce n‘est pas vrm représentatif.
-
-
 
 
 | Caisse       | Ensemble     |
