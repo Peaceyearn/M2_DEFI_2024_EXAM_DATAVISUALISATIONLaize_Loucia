@@ -9,7 +9,7 @@ La réforme des retraites révisant le système de retraite français réalisée
 1. Présentation du jeux de données
 2. L’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
 3. L’âge de départs en retraite des catégories socioprofessionnelles
-4. Les groupes sociaux le plus touché par les maladies
+4. Les groupes socioprofessionnels le plus touché par les maladies
 5. Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles
 
 # Présentation des jeux de données
@@ -35,88 +35,21 @@ Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des c
 
 
 ▶ Le jeux de données n°3 :
-Ce jeu de données porte sur les groupes sociaux par catégories ("Agriculteurs exploitants","Artisans", "commerçants", "chefs d'entreprise", qui sont le plus touché par les maladies comme le "Cancers", "Diabète", "Maladies cardioneurovasculaires" avec comme référent de 1, la catégorie cadre avec une probabilité de 1, les cadres et professions intellectuelles supérieures.
+Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("Agriculteurs exploitants","Artisans", "commerçants", "chefs d'entreprise", qui sont le plus touché par les maladies comme le "Cancers", "Diabète", "Maladies cardioneurovasculaires" avec comme référent de 1, la catégorie cadre avec une probabilité de 1, les cadres et professions intellectuelles supérieures.
 J'ai enleve les éléments de textes superflus por le traitement et j'ai les nombres en desssous de chaque case dans les colonnes principales de catégories car elles faisaient trop de valeurs à traiter pour l’outil et je les ai remis au propre.
 
-> Sources :
+> Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 ▶ Le jeux de données n°4 :
 
-Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur 
-Cancers	1	Population sans la maladie	83,20
-Cancers	2	Population sans la maladie	83,99
-Cancers	3	Population sans la maladie	84,95
-Cancers	4	Population sans la maladie	85,63
+Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données 	
 
 
-
-Cancers
-Cancers
-Cancers
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies cardioneurovasculaires
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies neurologiques ou dégénératives
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies psychiatriques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Maladies respiratoires chroniques
-Diabète
-Diabète
-Diabète
-Diabète
-Diabète
-Diabète
-Diabète
-Diabète
-Diabète
-Diabète
-Maladies du foie ou du pancréas
-Maladies du foie ou du pancréas
-Maladies du foie ou du pancréas
-Maladies du foie ou du pancréas
-Maladies du foie ou du pancréas
-Maladies du foie ou du pancréas
-Maladies du foie ou du pancréas
-![image](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/assets/121464401/3e973ffd-bb5a-4ddf-b38a-2bd0535fc9be)
+et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas"
 
 
+> Sources :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
-
-> Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil)
-> 
 
 ▶ Le jeux de données n°4 :
 
@@ -128,7 +61,6 @@ Maladies du foie ou du pancréas
 Analyse
 
 ## Visualisation de l’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
-
 
 
 
