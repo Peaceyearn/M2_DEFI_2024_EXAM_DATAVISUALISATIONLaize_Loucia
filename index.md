@@ -72,20 +72,17 @@ Le régime des caisses de retraites donne les modalités selon lesquelles les pr
 
 - CNIEG = caisse nationale des industries gazières et électriques
 - CNRACL = retraite des fonctionnaires territoriaux et hospitaliers
-  - Élément imbriqué 1
-  - Élément imbriqué 2
-- Troisième élément
+- CRPCEN = clercs et employés de notaire
+- ERAPF = retraite additionnelle de la fonction publique
+- FSPOEIE = retraite des ouvriers d’état
+- SSI = sécurité des sociales des indépendants
+- CAVIMAC = ministres des cultes et des membres des congrégations et des collectivités religieuses
+- CANSSM = Caisse autonome nationale de la sécurité sociale dans les mines
+- AGIRC = la quasi-totalité des salariés de l’industrie, du commerce, des services de l’agriculture
+- ARCCO = cadres
+- RATP / SNCF = deux grandes entreprises de transport en France
 
 
-CRPCEN = clercs et employés de notaire
-ERAPF = retraite additionnelle de la fonction publique
-FSPOEIE = retraite des ouvriers d’état
-SSI = sécurité des sociales des indépendants
-CAVIMAC = ministres des cultes et des membres des congrégations et des collectivités religieuses.
-CANSSM = Caisse autonome nationale de la sécurité sociale dans les mines
-AGIRC = la quasi-totalité des salariés de l’industrie, du commerce, des services de l’agriculture
-ARCCO = cadres
-RATP / SNCF = deux grandes entreprises de transport en France
 Nous observons que les CRPCEN (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles 
 Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). Réforme des retraites : ce qu’il faut savoir (demarchesadministratives.fr)
 
