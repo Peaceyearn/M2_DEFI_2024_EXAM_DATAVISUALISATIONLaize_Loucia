@@ -41,13 +41,17 @@ modification
 > Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 
 
-Diplôme	30 ans	31 ans	32 ans	33 ans
-Sans diplôme	52,9	52,0	51,0	50,0
-Brevet	55,3	54,4	53,4	52,4
-CAP-BEP	56,1	55,1	54,1	53,2
-Baccalauréat	56,7	55,8	54,8	53,8
-Supérieur	57,1	56,1	55,1	54,1
-Ensemble	55,4	54,4	53,4	52,4
+|Diplôme|	30 ans|	31 ans|	32 ans|	33 ans|
+|-------|--------------------|--------------------|----------------------|
+|Sans diplôme|	52,9|	52,0|	51,0|	50,0|
+|Brevet	|55,3	|54,4	|53,4|	52,4|
+|CAP-BEP	|56,1	|55,1	|54,1|	53,2|
+|Baccalauréat	|56,7	|55,8	|54,8	|53,8|
+|Supérieur	|57,1|	56,1|	55,1	|54,1|
+|Ensemble	|55,4	|54,4	|53,4	|52,4|
+> Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
+
+
 ![image](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/assets/121464401/9d39c09e-80a1-4e37-bb27-512835d6565b)
 
 
