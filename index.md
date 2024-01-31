@@ -89,7 +89,7 @@ A partir de 70 ans pour les hommes, l’écart d’espérance de vie diminue sen
 Nous concluons d’après ces données que l’espérance de vie est indéniablement liée au niveau d’éducation car des études ont montrées que plus le niveau d’éducation est élevée plus grande est la sensibilisation à la qualité de vie. Et donc l’impact sur l’espérance de vie est plus conséquent.Suivant cette visualisation, il paraît alors juste de se demander, dans le cas où l’espérance de vie est asymmétrique selon le niveau d’éducation, est-elle prise en compte dans le temps de travail et le droit de prendre sa retraite prématurément et d’échapper au prolongement de la durée de travail prévue par la loi récemment passée ?
 
 
-## L’âge de départs en retraite des catégories socioprofessionnelles(#age-de-departs-retraite) <a name="3"></a>
+## L’âge de départs en retraite des catégories socioprofessionnelles <a name="3"></a>
 
 Ces données représentent l'âge de départ à la retraite pour différents régimes de retraite ou caisses en France de 2009 à 2013… Ces données de caisses de retraites permettent de faire une visualisation rendant compte de l’âge de départ des catégories socioprofessionnelles. Chaque chart indique le nom de la caisse et l'âge de départ à la retraite présumé ou conjecturel associé. L'âge de départ à la retraite peut varier en fonction de la caisse et des spécificités du régime de retraite associé.
 
@@ -113,7 +113,7 @@ Nous observons que les _CRPCEN_ (clercs et employés de notaire) partent à la r
 
 
 
-## Les groupes socioprofessionnels les plus touchés par les maladies (#groupes-plus-touches-maladies) <a name="4"></a>
+## Les groupes socioprofessionnels les plus touchés par les maladies <a name="4"></a>
 Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions :_Agriculteurs exploitants_, _Artisans_, _commercants_.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
