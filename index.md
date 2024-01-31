@@ -29,7 +29,7 @@ modification
 
 ### Voici un extrait du fichier traité:
 
-| Diplome | channel_name       |     male_duration  |     female_duration  |
+| Diplome | 30 ans | 31 ans  | 32 ans| | 32 ans|
 |-------|--------------------|--------------------|----------------------|
 | Sans diplôme  | Animaux            |     1 645 238      |        956 988       |
 | Brevet  | ARTE               |     3 123 603      |     1 231 907        |
