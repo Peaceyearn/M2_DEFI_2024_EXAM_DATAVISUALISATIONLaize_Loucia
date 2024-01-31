@@ -51,8 +51,6 @@ Ce jeu de données porte sur les inégalité d’espérance de vie due au maladi
 
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
-
-
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation (#esperance-de-vie)
 Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (sans diplôme, Brevet, CAP-BEP, Baccalauréat, Supérieur). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
 
@@ -116,13 +114,20 @@ Cette visualisation montre que la réforme dessert les plus défavorisés qui tr
 
 # Conclusion
 
+Nous gardons en tête que le traitement d'un sujet aussi vaste est complexe est limité car il croisent plusieurs domaines, économiques, sociale  et politique . Trop de facteurs sont à prendre en compte pour affirmer avec certitude que cette réforme impopulaire est inégalitaire à tous les égards. Il aurait fallu prendre en compte les taux de cotisations en compte et le taux de pénibilité et d'autres facteurs économiques pour réaliser des croissements entre les données. Cela aurait requis de croiser des données et nécessité une compréhension plus poussée des statistiques.De plus, certains de jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données.Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
+
+Ainsi, mon approche s'est focalisée sur l'espérance de vie qui n'est pas pris en compte dans la réforme des retraites. Je n’ai pas pris l'espérance de vie par revenu mais par diplôme car le niveau d’éducation a une plus grande influence sur les individus, sur leur espérance de vie en influyant sur leur niveau de vie. Nous avons simplement observées des corrélations. Ainsi, les jeux de données ont permis de montrer que la réforme des retraites est défavorable aux plus pauvres qui sont toujours les plus touchés au niveau de l'espérance vie, à cause du niveau d'éducation et du point de vue des maladies. En définitive il aurait fallu réaliser un étude qui dépasse le cadre de cet examen pour croiser tous les facteurs. 
+
+
+
+montre que l'âge de départ à la retraire avec la fin des régimes spéciaux mais à égalités des individus qui ont une espérance de vie plus courte et sont plus sujets . Les visu
 
 
 
 
+Cela aurait pu permettre de mettre en avant l’iniquité de la réforme et explique la vague d’indignation qu’elle a suscité et appuyer les arguments en sa défaveur.
 
 
-On peut donc légitimement se demander si la réforme des retraites agrandira dans les années à venir les inégalités socioéconomique existante.
+Les visualisations effectuées amènent donc à se demander légitimement se demander si la réforme des retraites agrandira dans les années à venir les inégalités socioéconomique existante.
 
-Les limites de l'étude, certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données.Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
 
