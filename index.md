@@ -63,19 +63,31 @@ Nous concluons d’après ces données que l’espérance de vie est indéniable
 
 
 
-## Visualisation de l’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
+## L’âge de départs en retraite des catégories socioprofessionnelles
 
 
 
 <iframe title="Age conjoncturel de départ à la retraite" aria-label="Stacked Bars" id="datawrapper-chart-F5xE6" src="https://datawrapper.dwcdn.net/F5xE6/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="510" data-external="1"></iframe>
+
+
+
+
+
+
 https://datawrapper.dwcdn.net/F5xE6/1/
 
 
 
 
-## Troisième visualisation
+## 
+Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions,Agriculteurs exploitants, Artisans, commercants.
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/16635501"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+
+
 
 
 
@@ -104,6 +116,5 @@ https://datawrapper.dwcdn.net/F5xE6/1/
 
 Les limites: 
 Certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données. Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
-
 
 
