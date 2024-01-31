@@ -22,7 +22,9 @@ La réforme des retraites révisant le système de retraite français réalisée
 
 Ce jeu de données porte sur l’espérance de vie de 30 à 90 ans selon le niveau d’éducation ou diplôme.J'ai effectué une modification en réconciliant les colonnes hommes et femmes. J'ai procédé au data cleaning en enlevant par années et les éléments de textes. Enfin, j'ai enlevé données avec un âge excédant les 80 ans puisqu'au delà, les écarts ne sont plus significatifs et tendent à se réduire.
 
-> Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil) 
+> Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil)
+> Source :[Jeux de données 1 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_1_Esperance_vie_diplome.xlsx)
+> Source : [Jeux de données 1 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_1_original_Esperance_Vie_par_diplome.xlsx)
 
 ▶ Le jeux de données n°2 :  
 Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des catégories socioprofessionnelles par année, sexe et régime. J'ai enleve les données au dessus de 2009 et excédant 2013 car le jeux de données précédent à la même date et est lié. Puis j'ai enlevé les catégories CC et sexe qui ne m'intéressaient pas ainsi que des catégories comme la CNAV puisque tout le monde cautise à la CNAV donc ce n‘est pas vraiment représentatif et aussi car certaines données étaient incomplètes au niveau des dates. Enfin j'ai fait la moyenne par catégories de 2009 à 2013 pour chaque catégorie (CNIEG) sur Excel avec la fonction calcul de moyennnes sur excel.
@@ -56,6 +58,7 @@ Notre premier jeu de données traite de l’espérance de vie selon les diplôme
 <div class="flourish-embed flourish-chart" data-src="visualisation/16619337"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 > Source :[Outil Florish](https://flourish.studio/) 
+
 
 Ab initio, nous observons un écart encore plus grand entre les hommes et les femmes, lorsque celles-ci sont plus diplômées sachant qu’en moyenne les femmes ont à l’origine une espérance de vie plus haute que les hommes (pour diverses raisons hormonales, sociétales…).En outre, le même phénomène entre les femmes est observable. Par exemple, une femme sans diplôme à 30 ans aura une espérance de vie de 52.9 quand une femme dans le supérieur aura une espérance de vie de 57.1. L’écart est de 4,2 ans. Cet écart d’espérance de vie selon les diplômes se retrouve dans toutes les catégories et se poursuit dans les tranches d’âges de 30 à 53 ans (puis tend à se réduire).Cet écart d’espérance de vie due au niveau d’éducation est encore plus marqué chez les hommes. Un homme sans diplôme a une espérance de vie de 45,4 ans à 30 ans, une espérance de vie de 40 ans à 36 ans et une espérance de vie de 34, 6 à 42 ans.A contrario, un homme avec un Brevet a une espérance de vie de 48,4 ans à 30 ans, une espérance de vie de 42,8 ans à 36 ans et une espérance de 37, 2 à 42 ans. Enfin, un homme dans le supérieur à une espérance de vie de 49,4 ans à 30 ans, une espérance de vie de 43,7 ans à 36 ans et une espérance de 38, 1 à 42 ans. On constate donc un bond de 3 points à l’âge de 30 entre un homme ayant un simplet brevet et un homme diplômé ce qui est plus que pour les femmes.
 
