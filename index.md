@@ -12,9 +12,9 @@ La réforme des retraites révisant le système de retraite français réalisée
 # Sommaire 
 1. [Présentation des jeux de données](#1)
 2. [L’espérance de vie de 30 à 80 ans selon le niveau d’éducation](#2) 
-3. [L’âge de départs en retraite des catégories socioprofessionnelles](#3)
+3. [L’âge de départ en retraite des catégories socioprofessionnelles](#3)
 4. [Les groupes socioprofessionnels les plus touchés par les maladies](#4)
-5. [Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles](#5)
+5. [Inégalité d’espérance de vie due aux maladiex chroniques selon les catégories socioprofessionnelles](#5)
 
 # Présentation des jeux de données <a name="1"></a>
 
