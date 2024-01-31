@@ -89,9 +89,6 @@ Or, l’article 1 de la réforme des retraites prévoit la suppression de la maj
 
 > Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
 
-
-
-
 ## Les groupes socioprofessionnels les plus touchés par les maladies (#groupes-plus-touches-maladies)
 Cette visualisation permet de rendre compte de la rareté des maladies chez les cadres et professions intellectuelles supérieures et de leur prévalence chez les autres professions,Agriculteurs exploitants, Artisans, commercants.
 
@@ -108,19 +105,15 @@ La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esper
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-Le dixième de niveau de vie correspond dans le jeux de données en dix groupes en fonction du niveau de vie auquelle on a associé une espérance de vie.
-Santé: La condition de santé de la population (dans ce cas, "Population sans la maladie" semble indiquer l'état de santé sans la maladie spécifiée).
-Espérance de vie: L'espérance de vie associée à chaque groupe.
-Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
-
-
-Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile. Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.
-
-
-
-
+Le dixième de niveau de vie correspond dans le jeux de données en dix groupes en fonction du niveau de vie. Une espérance de vie à été associé une espérance de vie.
+à chaque groupe allant de 1 à 6. Les types de catégories ne sont pas détaillées dans le jeux de données.Le chiffre de 1 représente le 1er décile et donc correspond au 10 % des ménages les plus modestes qui ont un revenu disponible inférieur aux 13 630 euro par an et les 10 % de ménages les plus aisés ont un revenu supérieur à 63 000 euros dans le 9 ème décile. Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
 
 # Conclusion
+
+
+
+
+
 
 
 Les limites: 
