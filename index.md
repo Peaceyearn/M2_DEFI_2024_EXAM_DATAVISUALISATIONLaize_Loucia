@@ -50,12 +50,19 @@ Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des c
 Ce jeu de données porte sur les groupes de catégories socio-professionnels  ("_Agriculteurs exploitants_","_Artisans_", "_commerçants_", "_chefs d'entreprise_", qui sont le plus touchés par les maladies comme le "_Cancers_", "_Diabète_"... avec comme référent de 1 la catégorie _les cadres et professions intellectuelles supérieures_.J'ai enlevé les éléments de textes superflus por le traitement et j'ai les nombres en desssous de chaque case dans les colonnes principales de catégories car elles faisaient trop de valeurs à traiter pour l’outil et je les ai remis au propre.
 
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
+> Source :  [Jeux de données 3 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_A_maladies_chroniques_groupe_socioprofessionnel.xlsx)
+> Source :[Jeux de données 3 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_original_maladies_chroniques_et_esp%C3%A9rance_de_vie.xlsx)
+
+
 
 ▶ Le jeux de données n°4 :
 
 Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes _"Categorie_",	"_Dixieme de niveau de vie_",	"_Sante"Esperance de vie_" avec des données sur la "_Population sans la maladie_" et des données sur les types de maladies_"_Diabète_", "_Maladies du foie ou du pancréas_". J'ai enlevé le reste des données "_toutes catégories confondues_" après la ligne "_Maladies du foie ou du pancréas" car les données semblaient erronnées, elles se répétaient.Etant donné que le but était de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladies_, les données précédentes portant sur la population sans la maladie qui semblaient juste, suffisaient à montrer les écarts entre les groupes sociaux bien que des données de population avec les maladies aurait été préférables. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
 
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
+
+> Source : [Jeux de données 4 modifie](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_B_inegalite_esperance_vie_due_maladie_chronique.xlsx)
+> Source :[Jeux de données 3 original](https://github.com/Peaceyearn/DEFI_M2_EXAM_Laiz-_Loucia_DATAVISUALISATION/blob/main/Jeux_donn%C3%A9es_3_original_maladies_chroniques_et_esp%C3%A9rance_de_vie.xlsx)
 
 ## L’espérance de vie de 30 à 80 ans selon le niveau d’éducation <a name="2"></a>
 Notre premier jeu de données traite de l’espérance de vie selon les diplômes couvrant la période de 2009 à 2013, et les années de 30 à 80 ans.Cette visualisation vise à illustrer la différence d’espérance de vie selon les diplômes (_sans diplôme_, _Brevet_, _CAP-BEP_, _Baccalauréat_, _Supérieur_). Il s’agit pour nous de montrer avec cette visualisation qu’il existe à déjà une inégalité basée sur l’éducation qui influe sur l’espérance de vie des personnes et que la réforme des retraites pourrait potentiellement renforcer cette inégalité en rallongeant la durée de travail de personne défavorisé alors que leur espérance de vie est moindre en comparaison avec les personnes des classes supérieure.
