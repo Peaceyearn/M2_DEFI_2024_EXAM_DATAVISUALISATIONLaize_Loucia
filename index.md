@@ -16,8 +16,9 @@ M2 DEFI - Data Visualisation
 
 # Sommaire 
 1. intro choix
-2. traitement
-3. 
+2. Visualisation de l’espérance de vie de 30 à 80 ans selon le niveau d’éducation 
+3. traitement
+4. 
 
 
 
