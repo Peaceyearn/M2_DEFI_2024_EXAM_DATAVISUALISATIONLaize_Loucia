@@ -20,12 +20,7 @@ Ce jeu de données porte sur l’espérance de vie de 30 à 90 ans selon le nive
 > Sources : [Insee, Échantillon Démographique Permanent et état civil, 2009-2013.](https://www.insee.fr/fr/accueil) 
 
 ▶ Le jeux de données n°2 :
-Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des catégories socioprofessionnelles par année, sexe et régime. J'ai enleve les données au dessus de 2009 à 2013 puisque
-
-Puis j'ai enlevé les catégories CC et sexe qui ne m'intéressaient pas ainsi que des catégories
-
-Dans chaque categorie on enleve les données avant 2012 et on garde jusqu’à 2021. Puis j’ai enleve la CNAV puisque tout le monde cautise à la CNAV donc ce n‘est pas vrm représentatif.
-
+Ce jeu de données porte sur l’âge conjoncturel de départs en retraite des catégories socioprofessionnelles par année, sexe et régime. J'ai enleve les données au dessus de 2009 à 2013 car le jeux de données précédent à la même date et est lié.Puis j'ai enlevé les catégories CC et sexe qui ne m'intéressaient pas ainsi que des catégories comme la CNAV puisque tout le monde cautise à la CNAV donc ce n‘est pas vraiment représentatif et aussi car certaines données étaient incomplètes.
 
 | Caisse       | Ensemble     |
 |--------------|--------------|
