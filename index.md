@@ -1,12 +1,9 @@
 # Devoir de M2 DEFI - Data Visualisation
 M2 DEFI - Data Visualisation
 
-![image_illustration_examen_depart_retraite](image_illustration_examen_depart_retraite.png)
-
 La réforme des retraites est-elle équitable ?
 
 La réforme des retraites révisant le système de retraite français réalisées pendant la mandature d'Emmanuel Macron, validée par le Conseil constitutionnel, le 14 avril 2023 et promulguée le jour même, a suscité de vives débats et des grèves violentes à travers tout le pays. Pourtant, la réforme a été présenté comme inéluctable par ses partisans. En effet, « Nous vivons plus longtemps et donc (…) nous devons travailler plus longtemps », a déclaré le ministre du travail, Olivier Dussopt. Pourtant, beaucoup de France ont jugé cette réforme inique et convoyeuse d’inégalité. Nous chercherons à travers quelques visualisations à explorer de façon impartiale les angles des inégalités potentielles véhiculée par la réforme.
-
 
 
 # Sommaire 
@@ -23,20 +20,9 @@ Ce jeux de données porte sur l’espérance de vie de 30 à 90 ans selon le niv
 
 ### Voici un extrait du fichier traité:
 
-| Diplôme       | 30 ans | 31 ans | 32 ans | 33 ans |
-| ------------- | ------ | ------ | ------ | ------ |
-| Sans diplôme  | 52,9   | 52,0   | 51,0   | 50,0   |
-| Brevet        | 55,3   | 54,4   | 53,4   | 52,4   |
-| CAP-BEP       | 56,1   | 55,1   | 54,1   | 53,2   |
-| Baccalauréat  | 56,7   | 55,8   | 54,8   | 53,8   |
-| Supérieur     | 57,1   | 56,1   | 55,1   | 54,1   |
-| Ensemble      | 55,4   | 54,4   | 53,4   | 52,4   |
+
 
 Sources : Insee, Échantillon Démographique Permanent et état civil, 2009-2013.
-
-
-
-
 
 
 
