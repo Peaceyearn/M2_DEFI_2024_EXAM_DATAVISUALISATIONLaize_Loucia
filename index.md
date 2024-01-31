@@ -89,7 +89,7 @@ A partir de 70 ans pour les hommes, l’écart d’espérance de vie diminue sen
 Nous concluons d’après ces données que l’espérance de vie est indéniablement liée au niveau d’éducation car des études ont montrées que plus le niveau d’éducation est élevée plus grande est la sensibilisation à la qualité de vie. Et donc l’impact sur l’espérance de vie est plus conséquent.Suivant cette visualisation, il paraît alors juste de se demander, dans le cas où l’espérance de vie est asymmétrique selon le niveau d’éducation, est-elle prise en compte dans le temps de travail et le droit de prendre sa retraite prématurément et d’échapper au prolongement de la durée de travail prévue par la loi récemment passée ?
 
 
-## L’âge de départs en retraite des catégories socioprofessionnelles <a name="3"></a>
+## L’âge de départ en retraite des catégories socioprofessionnelles <a name="3"></a>
 
 Ces données représentent l'âge de départ à la retraite pour différents régimes de retraite ou caisses en France de 2009 à 2013… Ces données de caisses de retraites permettent de faire une visualisation rendant compte de l’âge de départ des catégories socioprofessionnelles. Chaque chart indique le nom de la caisse et l'âge de départ à la retraite présumé ou conjecturel associé. L'âge de départ à la retraite peut varier en fonction de la caisse et des spécificités du régime de retraite associé.
 
