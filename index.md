@@ -111,7 +111,7 @@ Cette visualisation permet de rendre compte du risque moindre de contractrer des
 <div class="flourish-embed flourish-chart" data-src="visualisation/16636184"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 > Source :[Outil Florish](https://flourish.studio/) 
 
-Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent largement ce point de référence, elles sont plus touchées par le diabète, les maladies chroniques... .Par exemple, les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaoneurovasculaires.
+Dans le jeu de données, les cadres servent de points de référence, fixé à 1. Les autres professions dépassent largement ce point de référence, elles sont plus touchées par le diabète, les maladies chroniques ect.Par exemple, les ouvriers ont 1,88 % plus de chances d'avoir du diabète que les cadres et professions supérieurs qui sont la valeur de référence. Les maladies chroniques accentuent les inegalites societales en matière d'espérance de vie entre les plus aisés et les plus modestes. Les maladies qui creusent le plus les inegalités d'après la visualisation sont les maladies psychatriques et cardiaoneurovasculaires.
 
 
 
