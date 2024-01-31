@@ -47,7 +47,8 @@ J'ai enleve les éléments de textes superflus por le traitement et j'ai les nom
 
 ▶ Le jeux de données n°4 :
 
-Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas". J'ai enlevé le reste des données "toutes catégories confondues" après la ligne "Maladies du foie ou du pancréas" car les données semblaient erronnées et se répétaient. Enfin le but était de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladie et pour ce faire,les données précédentes qui semblaient juste suffisaient. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
+Ce jeu de données porte sur les inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles. Il comporte des colonnes "Categorie",	"Dixieme de niveau de vie",	"Sante"Esperance de vie" avec des données sur la "Population sans la maladie" et des données sur les types de maladies "Diabète", "Maladies du foie ou du pancréas". J'ai enlevé le reste des données "toutes catégories confondues" après la ligne "Maladies du foie ou du pancréas" car les données semblaient erronnées, elles se répétaient.Etant donné que le but était de montrer les écarts entre chaque groupe de 1 à 6 pour chaque catégorie de maladies, les données précédentes portant sur la population sans la maladie qui semblaient juste, suffisaient àmontrer les écarts entre les groupes sociaux bien que des données de population avec les maladies aurait été préférables. Hormis ces erreurs remarquées le dossier n'a pas nécessité de datacleaning hormis le fait d'enlever les données textuelles.
+
 > Source :  [data.drees.solodarities-sante.gouv.fr](https://data.drees.solodarities-sante.gouv.fr/explore/dataset/er_inegalites_maladies_chroniques/information/) 
 
 
@@ -88,8 +89,7 @@ Le régime des caisses de retraites donne les modalités selon lesquelles les pr
 - ARCCO = cadres
 - RATP / SNCF = deux grandes entreprises de transport en France
 
-Nous observons que les CRPCEN (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles 
-Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). Réforme des retraites : ce qu’il faut savoir (demarchesadministratives.fr)
+Nous observons que les CRPCEN (clercs et employés de notaire) partent à la retraite à 62 ans et que les travailleurs des grandes entreprises de transport en France (RATP, SNCF) partent à la retraite à 55 ans grâce aux régimes de retraite spéciaux avec des caisses dédiées. Le départ à la retraire n’est pas le même selon les catégories socioprofessionnelles.Or, l’article 1 de la réforme des retraites prévoit la suppression de la majorité des régimes spéciaux de retraite. Cela comprend la RATP, la branche des industries électriques et gazières (IEG), les clercs et employés de notaires, les personnels de la Banque de France, et les membres du Conseil économique social et environnemental (Cese). Réforme des retraites : ce qu’il faut savoir (demarchesadministratives.fr)
 
 > Source : [Outil datawrapper](https://datawrapper.dwcdn.net/) 
 
@@ -109,8 +109,6 @@ La visualisation a 2 variables affichées : "Dixieme de niveau de vie" et "Esper
 <iframe title="Inégalité d’espérance de vie due au maladie chronique selon les catégories socioprofessionnelles" aria-label="Grouped Bars" id="datawrapper-chart-5sreo" src="https://datawrapper.dwcdn.net/5sreo/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="4650" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
-
-
 Prenons par exemple la catégorie "Cancers", si l'on compare les valeurs entre le premier et le dernier dixième de niveau de vie, le premier dixième, 1, a une espérance de vie de 83,20 alors que le dernier dixième a une espérance de vie de 88,87. L'écart entre ces 2 groupes d'individus est de 5,67.Cela signifie que, en termes d'espérance de vie sans cancer, la population du dixième de niveau de vie le plus élevé (10) a une valeur plus élevée de 5,67 par rapport à la population du dixième de niveau de vie correspondant au chiffre 1. En d'autres termes, les personnes du dixième de niveau de vie le plus élevé ont une espérance de vie sans cancer plus élevée que celles du dixième le plus bas, et l'écart est de 5,67 ans.
 Cette visualisation montre que la réforme dessert les plus défavorisés qui travailleront plus longtemps alors qu'ils auront une espérance de vie plus réduite et sont plus touchés par les maladies chroniques comme nous l'avons vu précédemment.Par exemple, dans la catégorie "Cancers", le dixième groupe de niveau de vie a une espérance de vie de 88,87 ans pour une population sans la maladie, tandis que le premier groupe a une espérance de vie de 83,20 ans dans des conditions similaires.
 
@@ -126,16 +124,5 @@ Cette visualisation montre que la réforme dessert les plus défavorisés qui tr
 
 On peut donc légitimement se demander si la réforme des retraites agrandira dans les années à venir les inégalités socioéconomique existante.
 
-Concernant les limites de l'étude, certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données.
-
-
-Un des jeux de données 
-
-
-
-Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
-
-
-
-
+Les limites de l'étude, certains jeux de données liées à la santé étaient complexes et difficiles à croiser avec des données socio-économiques, ils auraient fallu par exemple comprendre comment chaque groupe et les détails ou les descriptions spécifiques associées à chaque groupe dans la source d'origine des données.Ces détails auraient pu inclure des informations sur les caractéristiques socio-économiques, les comportements liés à la santé, ou d'autres facteurs qui pourraient influencer la santé dans chaque groupe.
 
